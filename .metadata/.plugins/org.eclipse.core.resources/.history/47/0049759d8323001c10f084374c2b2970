@@ -9,11 +9,7 @@ print("hello Tho")
 #variables
 date =21
 pi =3.14
-<<<<<<< HEAD
-email = "tho.nguyen1113232@mobilus.co.jp"
-=======
 email = "tho.nguyen@mobilus.co.jp"
->>>>>>> fixbug
 eat = True
 
 print(date)
