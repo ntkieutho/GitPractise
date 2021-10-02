@@ -11,6 +11,7 @@ date =21
 pi =3.14
 email = "tho.nguyen@mobilus.co.jp"
 eat = True
+email1 = "a@gmail.com"
 
 print(date)
 print(email)
