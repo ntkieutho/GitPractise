@@ -9,7 +9,7 @@ print("hello Tho")
 #variables
 date =21
 pi =3.14
-email = "tho.nguyen111@mobilus.co.jp"
+email = "tho.nguyen@mobilus.co.jp"
 eat = True
 
 print(date)
