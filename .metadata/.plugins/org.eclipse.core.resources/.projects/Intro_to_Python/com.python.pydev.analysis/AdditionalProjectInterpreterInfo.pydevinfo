@@ -1,0 +1,50 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Tho Nguyen\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Intro_to_Python\com.python.pydev.analysis\v2_indexcache
+Python_intro.Operations|1632387071306151100|C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\Operations.py
+Python_intro.Number|1632386810915018400|C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\Number.py
+Python_intro.CompareandLogicalOperation|1632388891051481400|C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\CompareandLogicalOperation.py
+Python_intro.Loop|1632389630094983300|C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\Loop.py
+Python_intro.Intro|1632386491702752800|C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\Intro.py
+Python_intro.__init__|1632385821934065300|C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\__init__.py
+Python_intro.Arithmetic|1632387287509173600|C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\Arithmetic.py
+Python_intro.DataStructure|1632390023006585500|C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\DataStructure.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+3=C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\CompareandLogicalOperation.py
+4=Python_intro.CompareandLogicalOperation
+11=C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\Operations.py
+2=Python_intro.Intro
+14=Python_intro.Arithmetic
+9=C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\DataStructure.py
+1=C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\Intro.py
+12=Python_intro.Operations
+13=C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\Arithmetic.py
+6=Python_intro.Number
+8=Python_intro.Loop
+7=C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\Loop.py
+5=C:\Users\Tho Nguyen\eclipse-workspace\Intro_to_Python\Python_intro\Number.py
+10=Python_intro.DataStructure
+-- END DICTIONARY
+-- START TREE 1
+15
+bas|1|basketballPlayer!1^22#1*19@
+bir|1|birthY!1^26#1*19@
+dat|1|date!1^10#1*19@
+deg|1|degree!3^8#1*35@
+eat|1|eat!1^13#1*19@
+ema|1|email!1^12#1*19@
+exp|1|experYear!3^11#5*35@
+num|3|numA!5^10#1*51@numbers!7^16#1*67@numB!5^11#1*51@
+pi|1|pi!1^11#1*19@
+sub|1|sub!5^12#1*51@
+tec|1|techList!9^6#1*83@
+tho|1|tho!11^8#1*99@
+x|1|x!13^7#1*115@
+y|1|y!13^8#1*115@
+you|1|yourAge!1^25#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

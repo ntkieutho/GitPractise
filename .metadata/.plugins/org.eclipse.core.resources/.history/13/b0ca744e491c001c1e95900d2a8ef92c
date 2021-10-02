@@ -1,0 +1,14 @@
+'''
+Created on 2021/09/23
+
+@author: Tho Nguyen
+'''
+print("hello Tho")
+
+#variables
+date =21
+pi =3.14
+email = "tho.nguyen@mobilus.co.jp"
+eat = True
+
+print(date)

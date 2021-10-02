@@ -1,0 +1,20 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\Tho Nguyen\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Simple_practise\com.python.pydev.analysis\v2_indexcache
+one|1632536941314680200|C:\Users\Tho Nguyen\eclipse-workspace\Simple_practise\one.py
+two|1632536911870215200|C:\Users\Tho Nguyen\eclipse-workspace\Simple_practise\two.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=one
+3=C:\Users\Tho Nguyen\eclipse-workspace\Simple_practise\one.py
+1=C:\Users\Tho Nguyen\eclipse-workspace\Simple_practise\two.py
+2=two
+-- END DICTIONARY
+-- START TREE 1
+1
+tes|2|test_failed!1^6#5*18@test_passed!3^6#5*34@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

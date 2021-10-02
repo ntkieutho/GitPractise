@@ -1,0 +1,15 @@
+'''
+Created on 2021/09/23
+
+@author: Tho Nguyen
+'''
+#x = 5==4
+#print(x)
+
+experYear = input("How many year of  exprience do you have: ")
+
+if int(experYear) <=2:
+    print("Sorry! You dont have enought exp")
+else:
+    print("Yeah, you can get master degree")
+    #print("Lets study now!")

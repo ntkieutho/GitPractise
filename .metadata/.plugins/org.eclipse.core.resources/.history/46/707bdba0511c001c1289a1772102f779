@@ -1,0 +1,7 @@
+'''
+Created on 2021/09/23
+
+@author: Tho Nguyen
+'''
+techList = ["Apple","Dell","HP"]
+print(techList[0:2])
